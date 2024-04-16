@@ -1,0 +1,1 @@
+/usr/bin/cc  -lSDL2 -lSDL2_image -std=c99 -Wall -O    CMakeFiles/unit_tests.dir/unit_tests.c.o CMakeFiles/unit_tests.dir/game.c.o CMakeFiles/unit_tests.dir/display.c.o CMakeFiles/unit_tests.dir/unity/src/unity.c.o  -o unit_tests -rdynamic 

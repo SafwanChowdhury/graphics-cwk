@@ -1,0 +1,2 @@
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/CMakeFiles/GameOfLife.dir
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/CMakeFiles/unit_tests.dir

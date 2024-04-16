@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/game.c
+stdio.h
+-
+stdlib.h
+-
+SDL2/SDL.h
+-
+stdbool.h
+-
+string.h
+-
+gameHeader.h
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/gameHeader.h
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/gameHeader.h
+

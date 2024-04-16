@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/SDLHeader.h
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/display.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+time.h
+-
+SDL2/SDL.h
+-
+SDLHeader.h
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/SDLHeader.h
+gameHeader.h
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/gameHeader.h
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/gameHeader.h
+
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/main.c
+stdio.h
+-
+stdlib.h
+-
+SDL2/SDL.h
+-
+stdbool.h
+-
+string.h
+-
+gameHeader.h
+/home/cserv1_a/soc_ug/ed18src/Desktop/CStuff/ed18src/gameHeader.h
+
